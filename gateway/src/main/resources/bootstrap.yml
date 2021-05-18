@@ -11,6 +11,10 @@ azure:
     jca:
       overrideTrustManagerFactory: true
       disableHostnameVerification: true
+    enabled: true
+    client-id:
+    client-key:
+    tenant-id:
 
 server:
   ssl:
